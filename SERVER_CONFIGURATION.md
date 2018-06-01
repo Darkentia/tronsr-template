@@ -1,1 +1,1 @@
-Describe your server configuration
+Amstrad 1640
