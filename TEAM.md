@@ -1,14 +1,14 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Dark Raven
+Role: Day Dreamer
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: Purple Mockinbird
+Role: Visualizer
 
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: Orange Pigeon
+Role: Clown in Transit
